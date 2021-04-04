@@ -1,7 +1,13 @@
 # Jesse Wolf 
 ![profile-picture](images/profile-picture.jpg)
 
-[Languages](#Languages)
+[Languages](#languages)
+
+[Course Taken at UCSD](#courses-taken-at-ucsd)
+
+[Projects](#projects-i-am-proud-of)
+
+[Other Links](#other-links)
 
 ---
 # **About Me:** 
@@ -38,6 +44,13 @@
 - [x] Teaching Computation in a Digital World
 
 ---
+## Projects I Am Proud Of
+- [Sudoku](https://github.com/JesseTWolf/Sudoku2.0)
+  - A Sudoku game created in Java. Uses a psuedo random grid generation I designed to generate a new grid each game. Included a [jar](https://github.com/JesseTWolf/Sudoku2.0/blob/master/Sudoku%202.0.jar) for ease of use. 
+- Quite a few others in work, however they are not ready for view as of yet or are connected to previous quarters' classwork and being kept private for now.
+
+---
 ## Other Links:
 - [LinkedIn](www.linkedin.com/in/jessetwolf)
 - [Github](https://github.com/JesseTWolf)
+- [Coolest Triple Monitor Wallpaper Ever (In My Opinion)](images/star-wars-triple-monitor.jpg)
