@@ -51,6 +51,6 @@
 
 ---
 ## Other Links:
-- [LinkedIn](www.linkedin.com/in/jessetwolf)
+- [LinkedIn](https://www.linkedin.com/in/jessetwolf)
 - [Github](https://github.com/JesseTWolf)
 - [Coolest Triple Monitor Wallpaper Ever (In My Opinion)](images/star-wars-triple-monitor.jpg)
