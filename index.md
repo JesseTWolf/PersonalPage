@@ -19,7 +19,7 @@
   - Play video games with friends. 
   - Work on side projects.
 - Favorite programming quote that I try to remember when writing code:
-  - >Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+  - >Any fool can write code that a computer can understand. Good programmers write code that humans can understand. -Martin Fowler
 
 
 ---
